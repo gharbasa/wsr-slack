@@ -1,0 +1,44 @@
+Highlights - (high level bullets on what you worked on or accomplished) 
+
+  [10-02-2017 - Monday] 
+
+    Discussion: VA VROM session
+    Discussion: VA Inventory Sprint Delivery plan
+
+
+  [10-03-2017 - Tuesday] 
+
+    Discussion: Meeting with engineering team to discuss VA Partner inventory
+    Discussion: GA Mandate Story 
+    Discussion: VA Inventory Story grmooming session
+
+
+  [10-04-2017 - Wednesday] 
+
+    Spring 4.1 Planning
+    Shaping-up VA Gen3 Partner Inventory module-initial setup
+
+
+  [10-05-2017 - Thursday] 
+
+    Shaping-up VA Gen3 Partner Inventory module-initial setup
+    Tried to setup Datical in our shared windows laptop, but couldn't due to infracture challenges.
+    Discussion: With VA Gen2 dev team on the integration architecture.
+    Verified the feasiblity of VA Gen2 users login to VA Gen3 RESTful API
+
+
+  [10-06-2017 - Friday] 
+
+    Technical Feasiblity: Study of VA Gen2 application integration with VA Gen3 RESTful API
+    Move VA Gen3 appplication configuration to DEV1(it is in DEVPII today), including CAS and features/permissions.
+    Shaping-up VA Gen3 Partner Inventory module-initial setup
+
+
+Lowlights - (any roadblocks, obstacles or impediments you encountered. Or just things that did not go well.)
+
+  Discussions with-in our engineering team, Story grooming and planning sessions.
+
+Focus - Next week 
+
+  VA Partner Inventory
+
